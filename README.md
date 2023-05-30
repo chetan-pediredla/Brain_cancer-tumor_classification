@@ -1,7 +1,7 @@
 # Brain_cancer-tumor_classification
- The dataset  we have used contains 7023 images of human brain MRI images which are classified into 4 (5712 images to train model ,1311 images to test model)​
- classes: glioma, meningioma, and pituitary.
-for model Building we have considered above 3 classes 
+ The dataset  we have used contains 7023 images of human brain MRI images which are classified into 4 (5712 images to train model ,1311 images to test model)
+ 
+ classes: glioma, meningioma, and pituitary. 
 ## Data Preparation 
  Load the data (Brain MRI )
  
@@ -29,4 +29,4 @@ Simple neural networks
 convolutional Neural networks
 
 Transfer learning models
- ## we got training accuracy for our final model(ResNet50) is 98.99 and testing accuracy is 98.88
+ ## we got training accuracy for our final model is 98.99 and testing accuracy is 98.88
