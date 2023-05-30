@@ -29,4 +29,4 @@ Simple neural networks
 convolutional Neural networks
 
 Transfer learning models
- 
+ ## we got training accuracy for our final model(ResNet50) is 98.99 and testing accuracy is 98.88
